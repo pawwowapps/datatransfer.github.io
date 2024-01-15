@@ -14,7 +14,7 @@ $site = "";
 
 
 
-$bundle = "sync.file.data.transfer.link.share ";
+$bundle = "sync.file.data.transfer.link.share";
 
 
 
