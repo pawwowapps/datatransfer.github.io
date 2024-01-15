@@ -1,0 +1,17 @@
+.container{
+    max-width: $mw;
+    padding: 0px 15px;
+    margin: 0 auto;
+}
+
+.header-block {
+    text-align: center;
+
+    // .header-block__title
+
+    &__title {
+        text-align: center;
+        font-size: 60px;
+        color: #133C61;
+    }
+}

@@ -1,0 +1,64 @@
+.privacy {
+    padding: 70px 0;
+    background: url('../img/bout_back.png') center / cover no-repeat;
+    background-attachment: fixed;
+
+    // .privacy__header-block
+
+    &__header-block {
+        margin: 0 0 70px 0;
+        text-transform: uppercase
+    }
+
+    // .privacy__textbox
+
+    &__textbox {
+        padding: 40px;
+        line-height: 25px;
+        border-radius: 40px
+    }
+
+    // .privacy__header
+
+    h2 {
+        text-align: center;
+        color: #0B0058;
+        font-weight: 600;
+        font-size: 40px;
+    }
+
+    h3 {
+        font-size: 22px;
+        font-weight: 700;
+        margin: 0 0 20px 0;
+    }
+
+    a {
+        color: blue;
+    }
+
+    // .privacy__textbox
+
+    &__updated {
+        font-size: 22px;
+        font-weight: 700;
+        margin: 0 0 40px 0;
+    }
+
+    // .privacy__text
+
+    p, ul {
+        margin: 0 0 20px 0;
+    }
+
+    // .privacy__list
+
+    &__list {
+        margin: 0 0 20px 0;
+    }
+
+    // .privacy__item
+
+    &__item {
+    }
+}
